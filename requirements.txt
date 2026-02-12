@@ -1,0 +1,4 @@
+fastmcp
+uvicorn
+mysql-connector-python
+python-dotenv
